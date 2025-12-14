@@ -1,4 +1,4 @@
-# Text Editor Web App
+## Text Editor Web App
 
 A simple web-based text editor built using **HTML, CSS, and JavaScript**.  
 This project was developed as part of the **CodeClause Web Development Internship (Task 2)**.
